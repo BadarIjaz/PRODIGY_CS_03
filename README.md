@@ -10,7 +10,7 @@ This repository contains a Python-based Graphical User Interface (GUI) tool that
 4. **Click "📋 Copy"** to save the password to your clipboard.
 
 ### Watch the Demo Video
-[Click to view the demo](password_checker_demo.mp4)
+[Click to view the demo](https://badarijaz.github.io/PRODIGY_CS_03/password_checker_demo.mp4)
 
 ### Features & Logic
 * **Real-Time Analysis:** Instant feedback on password strength (Weak/Moderate/Strong).
