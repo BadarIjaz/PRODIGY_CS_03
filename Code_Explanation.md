@@ -108,7 +108,8 @@ def generate_strong_password():
     random.shuffle(password)
 ```
 
-**Mandatory Inclusion:** We ensure at least one of every character type (Upper, Lower, Digit, Symbol) is present. Random Filling: We fill the remaining length (up to 12 chars) with random selections. Shuffle: We shuffle the final list so the mandatory characters aren't always at the start.
+**Mandatory Inclusion:** We ensure at least one of every character type (Upper, Lower, Digit, Symbol) is present. Random Filling: We fill the remaining length (up to 12 chars) with random selections.   
+**Shuffle:** We shuffle the final list so the mandatory characters aren't always at the start.
 
 
 ### 6. Dynamic UI Updates
